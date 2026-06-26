@@ -1,0 +1,11 @@
+# EmbedOps temporary/generated sketch workspace
+embedops-arduino-sketch/
+
+# Arduino CLI build outputs
+build/
+*/build/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
